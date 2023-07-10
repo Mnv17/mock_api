@@ -1,0 +1,120 @@
+{
+    "results": [
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the title of ABBA`s first UK hit single?",
+            "correct_answer": "Waterloo",
+            "incorrect_answers": [
+                "Mamma Mia",
+                "Fernando",
+                "Dancing Queen"
+            ]
+        },
+        {
+            "category": "Animals",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the scientific name for modern day humans?",
+            "correct_answer": "Homo Sapiens",
+            "incorrect_answers": [
+                "Homo Ergaster",
+                "Homo Erectus",
+                "Homo Neanderthalensis"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following commercial vehicles from Grand Theft Auto IV did NOT reappear in Grand Theft Auto V?",
+            "correct_answer": "Steed",
+            "incorrect_answers": [
+                "Mule",
+                "Benson",
+                "Pony"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these is NOT the name of an album released by American rapper Viper?",
+            "correct_answer": "The Life of Pablo",
+            "incorrect_answers": [
+                "Kill Urself My Man",
+                "You&#039;ll Cowards Don&#039;t Even Smoke Crack",
+                "Yo Wife Handcuffin&#039; Me"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+            "correct_answer": "Mazda",
+            "incorrect_answers": [
+                "Toyota",
+                "Subaru",
+                "Nissan"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "TF2: The Medic will be credited for an assist if he heals a Spy that successfully saps a building.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the last song on the first Panic! At the Disco album?",
+            "correct_answer": "Build God, Then We&#039;ll Talk",
+            "incorrect_answers": [
+                "Nails for Breakfast, Tacks for Snacks",
+                "I Write Sins Not Tragedies",
+                "Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In World War ll, Great Britian used inflatable tanks on the ports of Great Britain to divert Hitler away from Normandy\/D-day landing.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+            "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+            "incorrect_answers": [
+                "Cristiano Ronaldo los Santos Diego",
+                "Cristiano Armando Diego Ronaldo",
+                "Cristiano Luis Armando Ronaldo"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following blood component forms a plug at the site of injuries?",
+            "correct_answer": "Platelets",
+            "incorrect_answers": [
+                "Red blood cells",
+                "White blood cells",
+                "Blood plasma"
+            ]
+        }
+    ]
+}
